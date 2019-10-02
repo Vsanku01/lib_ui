@@ -1,4 +1,4 @@
-# lib_ui
+# lib_ui the digital library
 
 A new Flutter application.
 
